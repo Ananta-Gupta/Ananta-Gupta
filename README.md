@@ -1,25 +1,103 @@
-![Game Developer>](https://github.com/AshutoshR10/Ashutosh-Sharma/blob/main/pngtree-video-game-development-minimal-infographic-web-banner-vector-image_1432541.jpg)
+<div align="center">
 
+# Ananta Gupta
 
-# Hi there 👋, I'am Ananta Gupta
-<img align="right" alt="Coding" width="400" src="https://github.com/AshutoshR10/AshutoshR10/blob/main/code_fi_lofi_beats_to_code_relax_to-ezgif.com-video-to-gif-converter.gif">
+### Game Developer & Gameplay Programmer
 
-Innovative Game Designer & Developer with 4+ years of experience crafting engaging, immersive gameplay across Web, PC, and Mobile platforms. Adept at designing compelling game mechanics, multiplayer systems, and blockchain integration. Passionate about pushing creative boundaries and delivering seamless, high-performance gaming experiences.
-## Game Developer/ Unity Game Developer
-## Skills and Experience
-* 🎮 Game Development
-* 🕹️ Unity Engine
-* 💻 C# | C++
+Designer · Developer · Builder — games, interactive systems, digital products, and developer tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta-Gupta)](https://github.com/anuraghazra/github-readme-stats)
+5+ years shipping gameplay systems, multiplayer features, and game design across PC, mobile, and web
 
-- 🔭 I’m currently working on My own personal project 
-- 📫 How to reach me: anantagupta.official@gmail.com 
+**[anantagupta.com](https://anantagupta.com)**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://anantagupta.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananta-gupta-475266ba/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantagupta.official@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/AshutoshR10](https://github.com/Ananta-Gupta))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ananta-gupta-475266ba/)
+</div>
 
+<br>
 
+## What I Build
 
+- **Gameplay Systems** — core mechanics, progression, controls, scoring, and design
+- **Multiplayer & Networking** — real-time systems using Photon Fusion and Photon PUN2
+- **Web Apps & Tools** — REST APIs, developer tooling, and product websites
+- **Unity Editor Tooling** — internal tools and reusable systems that speed up development
 
+<br>
 
+## Currently Building
+
+| Project | Details |
+|---|---|
+| **Killing It!** | Farm-defense game — in rework under **CodeDrift Studio** |
+| **RestAPI Core** | Unity Asset Store networking tool — under **CtrlPlay Labs** |
+| **Personal Finance OS** | Personal web application/product |
+
+<br>
+
+## Selected Projects
+
+**[OVER](https://www.overthereality.ai/)**<br>
+AR/social platform — built Friends + Chat systems using PubNub and REST APIs, plus interactive AR rooms
+
+**ARSENAL**<br>
+FPS/TDM project — gameplay systems, Web3/blockchain integration, REST APIs, Photon networking
+
+**[Save the Monkey](https://play.google.com/store/apps/details?id=com.cds.savethemonkey)**<br>
+Mobile game — gameplay systems, progression, controls, scoring, and monetization
+
+**YipFit**<br>
+Gamified fitness for kids — mini-games with sensor-mat input integration
+
+**Swaadvale** · **Neelkanth Rudraksh Emporium**<br>
+Web experiences built for premix food and business clients
+
+<br>
+
+## Studios
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CodeDrift Studio**<br>
+Games, client work, and digital products
+
+</td>
+<td width="50%" valign="top">
+
+**CtrlPlay Labs**<br>
+Unity tools, reusable systems, and developer assets — [RestAPI Core →](https://assetstore.unity.com/packages/tools/network/restapi-core-316320)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech
+
+**Unity** · **C#** · **URP** · **New Input System** · **Photon Fusion / PUN2**<br>
+**Next.js** · **React** · **TypeScript** · **Supabase** · **Firebase** · **REST APIs**
+
+<br>
+
+<div align="center">
+
+### Let's build something
+
+**[anantagupta.com](https://anantagupta.com)** · **[anantagupta.official@gmail.com](mailto:anantagupta.official@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ananta-gupta-475266ba/)**
+
+<br>
+
+<details>
+<summary>GitHub activity</summary>
+<br>
+
+![Ananta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananta-Gupta&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+</details>
+
+</div>

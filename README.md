@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="assets/profile-banner.png" alt="Ananta Gupta — Game Developer & Gameplay Programmer banner featuring Unity gameplay, multiplayer, web/app, and developer tools icons alongside CodeDrift Studio and CtrlPlay Labs" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 
 # Ananta Gupta
 

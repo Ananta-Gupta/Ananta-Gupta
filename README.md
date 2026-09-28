@@ -92,12 +92,4 @@ Unity tools, reusable systems, and developer assets — [RestAPI Core →](https
 
 <br>
 
-<details>
-<summary>GitHub activity</summary>
-<br>
-
-![Ananta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananta-Gupta&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</details>
-
 </div>
